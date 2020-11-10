@@ -47,4 +47,6 @@ printf("%d\t",mul[i][j]);
 printf("\n");    
 }    
 return 0;  
-}  
+} 
+
+#### end of the program ###
