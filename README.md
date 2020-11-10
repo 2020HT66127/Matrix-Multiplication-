@@ -48,6 +48,7 @@ printf("%d\t",mul[i][j]);
 printf("\n");    
 }    
 return 0;  
+<<<<<<< HEAD
 ######################################################
 
 ##### Adding code for subtraction ####}
@@ -131,3 +132,8 @@ int main() {
 
 =======
 >>>>>>> development
+=======
+} 
+
+END
+>>>>>>> a9ae464b7bc87c9d0e587981d58d1bf143c1b7f5
